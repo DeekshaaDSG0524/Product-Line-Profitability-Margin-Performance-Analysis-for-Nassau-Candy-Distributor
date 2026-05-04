@@ -1,0 +1,2 @@
+# Product-Line-Profitability-Margin-Performance-Analysis-for-Nassau-Candy-Distributor
+Analyzed Nassau Candy Distributor sales data to evaluate product line profitability, gross margin trends, and revenue contribution. Built interactive dashboards using Python, Pandas, Plotly, and Streamlit to identify top-performing products, low-margin divisions, concentration risks, and strategic growth opportunities.
